@@ -1,4 +1,4 @@
-def speak_to_grandma(I LOVE YOU GRANDMA!)
+def speak_to_grandma
 
 end
 
