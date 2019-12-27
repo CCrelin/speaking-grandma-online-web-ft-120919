@@ -1,5 +1,5 @@
-def speak_to_grandma 
-  
+def speak_to_grandma(say) 
+ say = "I LOVE YOU GRANDMA!"
 end
 
 
