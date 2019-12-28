@@ -4,7 +4,7 @@ def speak_to_grandma(say)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif say == "Hi Nana, how are you?"||"Hi!"
     return "HUH?! SPEAK UP, SONNY!"
-  else 
+  else say == 
     return "NO, NOT SINCE 1983!"
   end 
 end
